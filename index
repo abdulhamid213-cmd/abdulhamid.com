@@ -1,20 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-    <title>Profil Saya</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdul Hamid</title>
+
     <style>
         body {
-            font-family: Arial;
-            text-align: center;
-            background: #f0f4f8;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
         }
-        h1 {
-            color: blue;
+
+        header {
+            background: #0078d7;
+            color: white;
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        section {
+            padding: 30px;
+            text-align: center;
+        }
+
+        .btn {
+            background: #0078d7;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
         }
     </style>
 </head>
 <body>
-    <h1>Selamat Datang</h1>
-    <p>Ini adalah website pertama saya di GitHub.</p>
+
+<header>
+    <h1>Selamat Datang di Website Abdul Hamid</h1>
+    <p>Website pribadi yang dibuat dengan GitHub Pages</p>
+</header>
+
+<section>
+    <h2>Tentang Saya</h2>
+    <p>Saya sedang belajar membuat website menggunakan GitHub.</p>
+    <br>
+    #Hubungi Saya</a>
+</section>
+
+<footer>
+    © 2026 Abdul Hamid
+</footer>
+
 </body>
 </html>
